@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @runcornstuntman
-- 👀 I’m interested in better understanding how things work, why they work and how to optimize things to work more efficiently.
+- 👀 I’m interested in better understanding how things work, why they work and how to make them work more efficiently.
 - 🌱 I’m currently self teaching programming and undertaking the following courses: CS50x, CS50P, CS50W The Odin Project and 100 Days of Python
 - 💞️ I’m looking to gain further experience and am open to collaborating on anything that peaks my interest. 
 - 📫 How to reach me ...
